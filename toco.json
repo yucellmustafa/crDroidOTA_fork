@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "yucellmustafa",
+			"oem": "Xiaomi",
+			"device": "Mi Note 10 Lite",
+			"filename": "crDroidAndroid-14.0-20240217-toco-v10.2.zip",
+			"download": "https://sourceforge.net/projects/yucellmustafa-builds/files/toco/crDroid_10.x/crDroidAndroid-14.0-20240217-toco-v10.2.zip/download",
+			"timestamp": 1708140702,
+			"md5": "e146d054a5d5c0245b276d72a75dffa5",
+			"sha256": "4c5030983582f6095abd0c73443bd95ef5ad6cd3f2dad5a9ea31ca077261c3b7",
+			"size": 1429916493,
+			"version": "10.2",
+			"buildtype": "Monthly",
+			"forum": "https://xdaforums.com/t/rom-14-0-official-toco-crdroid-10-1.4647063/",
+			"gapps": "https://mindthegapps.com/download/",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://sourceforge.net/projects/yucellmustafa-builds/files/toco/other/recovery.img/download",
+			"paypal": "https://www.buymeacoffee.com/yucellmustafax",
+			"telegram": "https://t.me/xiaomiminote10lite",
+			"dt": "https://github.com/crdroidandroid/android_device_xiaomi_toco",
+			"common-dt": "https://github.com/crdroidandroid/android_device_xiaomi_sm6150-common/tree/14.0-toco",
+			"kernel": "https://github.com/crdroidandroid/android_kernel_xiaomi_sm6150/tree/14.0-toco"
+		}
+	]
+}

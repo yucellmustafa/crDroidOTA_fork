@@ -1,0 +1,28 @@
+Highlights & Device Specific Changes:
+Build type: Monthly / Stable
+Device: Xiaomi Mi Note 10 Lite (toco)
+Device maintainer: yucellmustafa
+
+======== 17 February 2024 ========
+* Update February 2024 security patch
+* Added back UDFPS animations
+* SafetyNet fix
+* Customize flashlight blink for incoming calls (crDroid Settings -> Notifications)
+* Control in-call vibration (Settings -> Sound)
+* Create custom vibration patterns (Settings -> Sound)
+* Adjusted VolumeDialogImpl layout direction
+* Fixed Google Translate login issues
+
+======== 11 January 2024 ========
+* Add Clone Apps
+* Update January 2024 security patch
+* fix many bugs
+
+======== 04 January 2023 ========
+* Add App Lock
+* Add QS Header Image
+* fix many bugs
+
+======== 22 December 2023 ========
+* Initial Release for Android 14
+* With most features from crdroid 10.x
